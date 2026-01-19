@@ -2,5 +2,6 @@
   "database": {
     "version": "1.8",
     "message": "TESTING"
+    "block": "FALSE"
   }
 }
