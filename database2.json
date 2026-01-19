@@ -1,6 +1,6 @@
 {
   "database": {
-    "version": "2.0",
+    "version": "2.1",
     "message": "TESTING",
     "db_message": "TESTING",
     "block": "FALSE"
