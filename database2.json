@@ -2,7 +2,7 @@
   "database": {
     "version": "2.1",
     "message": "TESTING",
-    "db_message": "TESTING",
+    "db_message": "UPDATE!!",
     "block": "FALSE"
   }
 }
